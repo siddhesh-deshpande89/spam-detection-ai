@@ -9,6 +9,10 @@ The objective of this POC is to create a RESTful API that reads data from the da
 - Run `pip install`
 - Run `flask run --port 8000`
 
+### Demo
+![alt text](https://github.com/siddhesh-deshpande89/spam-detection-ai/blob/master/image.gif?raw=true)
+
+
 ### Example of Spam: Result = 1
 ```
 curl --location --request POST 'http://127.0.0.1:8000/detect-spam' \
